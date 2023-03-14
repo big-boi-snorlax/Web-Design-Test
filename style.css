@@ -1,0 +1,166 @@
+body {
+  background-image: url("../img/amongusbackground.jpg");
+}
+html {
+  cursor: url('../img/amogos.ico'), default;
+}
+.A {
+  color: white;
+}
+
+.toolbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.toolbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 4px 6px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.a {
+  color: white;
+  font-family: Comic Sans MS;
+  font-size: 60px
+}
+
+.B {
+  background-color:red;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: blue;
+  margin: 50px;
+  color: yellow;
+  font-size: 40px;
+}
+
+.C {
+  background-color:red;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: blue;
+  margin: 50px;
+  color: yellow;
+  font-size: 20px;
+}
+
+.D {
+  background-color:black;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin: 50px;
+  color: white;
+  font-size: 20px;
+}
+
+.E {
+  font-family: Verdana; 
+  color: yellow;
+}
+
+.F {
+  width: 450px; 
+  height: 300px; 
+  margin-left: 50px; 
+  margin-right: 50px; 
+  border: 2px groove yellow
+}
+.G {
+  width: 500px; 
+  height: 300px; 
+  border: 2px groove yellow
+}
+.H {
+  width: 500px; 
+  height: 300px; 
+  margin-right: 100px; 
+  border: 2px groove yellow
+}
+.I {
+  height: 75px; font-size: 30px;
+}
+.J {
+  border: 2px solid grey;  
+  font-family: Arial; 
+  background-color: #000000; 
+  color: #FFFFFF
+}
+.K {
+  height: 100px; 
+  vertical-align: center; 
+  font-size: 30px; 
+  background-color: red
+}
+.L {
+  width: 200px; 
+  border: 2px solid grey;  
+  font-family: Arial; 
+  color: white
+}
+.M {
+  font-family: Courier New; color: white
+}
+.N {
+  height: 75px; 
+  width: 200px;
+}
+.O {
+  border: 2px solid grey; 
+  background-color: #000000; 
+  color: white
+}
+.P {
+  border: 2px groove grey; 
+  background-color: #000000; 
+  color: white
+}
+
+
+
+.y {
+  color: yellow;
+}
+.left {
+  float: left
+}
+.right {
+  float: right
+}
+.icon {
+  height: 50px;
+  width: 50px
+}
+
+
+.table {
+  width: 1200px;
+  height: 700px;
+  border: 5px outset grey; 
+  border-spacing: 1px; 
+  padding: 5px; 
+  text-align: center; 
+  background-color: #000000; 
+  border-collapse: collapse;
+}
+a.class1 {color:blue;}
+a.class1:link  {text-decoration: underline; color: blue;}
+a.class1:visited {text-decoration: underline; color: blue;}
+a.class1:hover {text-decoration: underline; color: blue;}
+a.class1:active {text-decoration: underline; color: blue;}
